@@ -8,10 +8,12 @@
 <br />
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=white&color=yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&labelColor=white&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&labelColor=white&color=red">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&labelColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/springsecurity-7033FD?style=for-the-badge&logo=springsecurity&labelColor=white&color=7033FD">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&labelColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&labelColor=white&color=red">
 </p>
+<br />
 
 ## 📚   인트로
 
@@ -98,10 +100,17 @@
 
 ###  2.  네트워크 보안장비 교체
 
->  노후화된 네트워크 보안장비(WAF, DDoS) 교체를 진행하였습니다
->  기존 장비와 인라인으로 설치 후 신규 정책 모니터링을 위해 탐지모드로 설정하였으며,
+>  노후화된 네트워크 보안장비(WAF, DDoS) 교체를 진행하였습니다<br />
+>  기존 장비와 인라인으로 설치 후 신규 정책 모니터링을 위해 탐지모드로 설정하였으며,<br />
 >  정탐 정책들을 대상으로 차단으로 전환하였습니다.
 
 ###  3.  DRM 교체
 
+>  노후화되어 새로운 버전의 문서 편집 프로그램을 지원하지 않아 에이전트 업그레이드 작업을 수행하였습니다.<br />
+>  에이전트 배포는 NAC 장비를 사용하여 진행하였으며, 지속적인 패치를 통하여 발생하는 이슈들을 해결하였습니다.
+
 ###  4.  DLP 신규 구축
+
+>  노후화된 다른 솔루션들을 교체하며 하나의 솔루션의로 통합관리하기 위하여,<br />
+>  DLP 솔루션 신규 구축 프로젝트를 진행하였습니다.<br />
+>  내부 규정에 맞는 매체제어 정책 및 데이터 반출 정책을 수립하여 적용하였습니다.
