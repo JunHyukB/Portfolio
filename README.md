@@ -4,6 +4,15 @@
 
 <br />
 
+##  🛠️ 기술스택
+<br />
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=white&color=yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&labelColor=white&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&labelColor=white&color=red">
+
+</p>
+
 ## 📚   인트로
 
 >  안녕하십니까. 5년동안 정보보안 직무를 수행했으며,<br />
