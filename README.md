@@ -1,8 +1,6 @@
 # 🔖  포트폴리오  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit">
 
 >  JunHyukB의 포트폴리오 입니다<br />
->  [Notion]<br />
->  https://spiced-dumpling-734.notion.site/1dc78664b0434daa8785e13790659727?pvs=4
 <br />
 
 ##  🛠️ 기술스택
@@ -94,30 +92,6 @@
 
 ##  📖  진행 프로젝트
 
-###  1.  사내 전산망 및 보안장비 구축
+###  [Notion]
 
->  사내 신규 전산망을 구축하고 보안장비를 설치하는 프로젝트 진행하였습니다.<br />
->  신규 UTM 장비에 인터페이스를 분리하여 기존망 연결 및 신규 IP 대역 할당하였으며,<br />
->  SSL-VPN 기능을 사용하여 내부에 접속할 수 있도록 정책을 설정하였습니다.<br />
->  ![image](https://github.com/JunHyukB/Portfolio/assets/33308124/c9f0ad9a-c523-4a28-a163-15335192a93a)
-
-###  2.  네트워크 보안장비 교체
-
->  노후화된 네트워크 보안장비(WAF, DDoS) 교체를 진행하였습니다<br />
->  기존 장비와 같은 경로에 인라인으로 설치 후 신규 정책 모니터링을 위해 탐지모드로 설정하였으며,<br />
->  정탐 정책들을 대상으로 차단으로 전환하였습니다.
->  ![제목 없는 다이어그램 (2)](https://github.com/JunHyukB/Portfolio/assets/33308124/f9f78301-c916-43ea-87bf-e8a6ed269750)
-
-
-###  3.  DRM 교체
-
->  노후화되어 새로운 버전의 문서 편집 프로그램을 지원하지 않아 에이전트 업그레이드 작업을 수행하였습니다.<br />
->  에이전트 배포는 NAC 장비를 사용하여 진행하였으며, 지속적인 패치를 통하여 발생하는 이슈들을 해결하였습니다.
->  ![제목 없는 다이어그램 (3)](https://github.com/JunHyukB/Portfolio/assets/33308124/a04d0edc-94fd-4929-afeb-c8976a673237)
-
-
-###  4.  DLP 신규 구축
-
->  노후화된 다른 솔루션들을 교체하며 하나의 솔루션의로 통합관리하기 위하여,<br />
->  DLP 솔루션 신규 구축 프로젝트를 진행하였습니다.<br />
->  내부 규정에 맞는 매체제어 정책 및 데이터 반출 정책을 수립하여 적용하였습니다.
+>  https://spiced-dumpling-734.notion.site/1dc78664b0434daa8785e13790659727?pvs=4
