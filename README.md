@@ -1,7 +1,7 @@
 # 🔖  포트폴리오  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit">
 
->  JunHyukB의 포트폴리오 입니다
->  Notion
+>  JunHyukB의 포트폴리오 입니다<br />
+>  [Notion]<br />
 >  https://spiced-dumpling-734.notion.site/1dc78664b0434daa8785e13790659727?pvs=4
 <br />
 
